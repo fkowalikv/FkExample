@@ -1,0 +1,18 @@
+{
+  "name": "fk/example",
+  "description": "FkExample",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Fk\\Example\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "Fk\\Example\\FkExample",
+    "label": {
+      "de-DE": "FkExample",
+      "en-GB": "FkExample"
+    }
+  }
+}
