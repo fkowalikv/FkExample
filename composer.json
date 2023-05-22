@@ -1,6 +1,7 @@
 {
   "name": "fk/example",
   "description": "FkExample",
+  "version": "0.0.1",
   "type": "shopware-platform-plugin",
   "license": "MIT",
   "autoload": {
